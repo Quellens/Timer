@@ -1,8 +1,6 @@
 # Timer
 Dies ist ein Timer. 
-
-# How to use
-Standardwert ist 5 Minuten
+Der Standardwert ist 5 Minuten
 Um den Wert zu ändern füge '?min=num' in die URL hinzu. 
 Bsp: "https://quellens.github.io/Timer/?min=2.5"
 
