@@ -1,4 +1,4 @@
-# Timer
+# Deutsch
 Dies ist ein Timer. 
 Der Standardwert ist 5 Minuten
 Um den Wert zu ändern füge '?min=num' in die URL hinzu. 
